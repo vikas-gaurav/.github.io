@@ -1,0 +1,20 @@
+.page-container {
+    height: 100vh;
+    width: 100%;
+    background-color: #000000;
+    background-image: linear-gradient(315deg, #000000 0%, #7f8c8d 74%);
+}
+
+.social-btns a {
+    height: 2em;
+    width: 2em;
+}
+
+.user-image-container {
+    max-height: 10em;
+    max-width: 10em;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
